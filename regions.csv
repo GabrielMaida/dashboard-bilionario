@@ -1,0 +1,201 @@
+region,country,development
+Africa,Algeria,developing
+Africa,Angola,developing
+Africa,Benin,developing
+Africa,Botswana,developing
+Africa,Burkina Faso,developing
+Africa,Burundi,developing
+Africa,Cabo Verde,developing
+Africa,Cameroon,developing
+Africa,Central African Republic,developing
+Africa,Chad,developing
+Africa,Comoros,developing
+Africa,Congo,developing
+Africa,Democratic Republic of the Congo,developing
+Africa,Djibouti,developing
+Africa,Egypt,developing
+Africa,Equatorial Guinea,developing
+Africa,Eritrea,developing
+Africa,Eswatini,developing
+Africa,Ethiopia,developing
+Africa,Gabon,developing
+Africa,The Gambia,developing
+Africa,Ghana,developing
+Africa,Guinea,developing
+Africa,Guinea-Bissau,developing
+Africa,Ivory Coast,developing
+Africa,Kenya,developing
+Africa,Lesotho,developing
+Africa,Liberia,developing
+Africa,Libya,developing
+Africa,Madagascar,developing
+Africa,Malawi,developing
+Africa,Mali,developing
+Africa,Mauritania,developing
+Africa,Mauritius,developing
+Africa,Morocco,developed
+Africa,Mozambique,developing
+Africa,Namibia,developing
+Africa,Niger,developing
+Africa,Nigeria,developing
+Africa,Rwanda,developing
+Africa,Sao Tome and Principe,developing
+Africa,Senegal,developing
+Africa,Seychelles,developing
+Africa,Sierra Leone,developing
+Africa,Somalia,developing
+Africa,South Africa,developing
+Africa,South Sudan,developing
+Africa,Sudan,developing
+Africa,Tanzania,developing
+Africa,Togo,developing
+Africa,Tunisia,developed
+Africa,Uganda,developing
+Africa,Zambia,developing
+Africa,Zimbabwe,developing
+Americas,Antigua and Barbuda,developing
+Americas,Argentina,developed
+Americas,Bahamas,developed
+Americas,Barbados,developed
+Americas,Belize,developing
+Americas,Bolivia,developing
+Americas,Brazil,developing
+Americas,Canada,developed
+Americas,Chile,developed
+Americas,Colombia,developing
+Americas,Costa Rica,developed
+Americas,Cuba,developing
+Americas,Dominica,developing
+Americas,Dominican Republic,developing
+Americas,Ecuador,developing
+Americas,El Salvador,developing
+Americas,Grenada,developing
+Americas,Guatemala,developing
+Americas,Guyana,developing
+Americas,Haiti,developing
+Americas,Honduras,developing
+Americas,Jamaica,developing
+Americas,Mexico,developing
+Americas,Nicaragua,developing
+Americas,Panama,developing
+Americas,Paraguay,developing
+Americas,Peru,developing
+Americas,Saint Kitts and Nevis,developing
+Americas,Saint Lucia,developing
+Americas,Saint Vincent and the Grenadines,developing
+Americas,Suriname,developing
+Americas,Trinidad and Tobago,developing
+Americas,United States,developed
+Americas,Uruguay,developed
+Americas,Venezuela,developing
+Americas,World,developing
+Asia,Afghanistan,developing
+Asia,Armenia,developing
+Asia,Azerbaijan,developing
+Asia,Bahrain,developed
+Asia,Bangladesh,developing
+Asia,Bhutan,developing
+Asia,Brunei,developed
+Asia,Cambodia,developing
+Asia,China,developing
+Asia,Cyprus,developed
+Asia,Georgia,developing
+Asia,India,developing
+Asia,Indonesia,developing
+Asia,Iran,developing
+Asia,Iraq,developing
+Asia,Israel,developed
+Asia,Japan,developed
+Asia,Jordan,developing
+Asia,Kazakhstan,developing
+Asia,Kuwait,developed
+Asia,Kyrgyzstan,developing
+Asia,Laos,developing
+Asia,Lebanon,developed
+Asia,Malaysia,developed
+Asia,Maldives,developing
+Asia,Mongolia,developing
+Asia,Myanmar,developing
+Asia,Nepal,developing
+Asia,North Korea,developing
+Asia,Oman,developed
+Asia,Pakistan,developing
+Asia,Palestine State,developing
+Asia,Philippines,developing
+Asia,Qatar,developed
+Asia,Russia,developed
+Asia,Saudi Arabia,developed
+Asia,Singapore,developed
+Asia,South Korea,developed
+Asia,Sri Lanka,developing
+Asia,Syria,developing
+Asia,Tajikistan,developing
+Asia,Thailand,developed
+Asia,Timor-Leste,developing
+Asia,Turkey,developed
+Asia,Turkmenistan,developing
+Asia,United Arab Emirates,developed
+Asia,Uzbekistan,developing
+Asia,Vietnam,developing
+Asia,Yemen,developing
+Europe,Albania,developed
+Europe,Andorra,developed
+Europe,Armenia,developing
+Europe,Austria,developed
+Europe,Azerbaijan,developing
+Europe,Belarus,developing
+Europe,Belgium,developed
+Europe,Bosnia and Herzegovina,developing
+Europe,Bulgaria,developed
+Europe,Croatia,developed
+Europe,Cyprus,developed
+Europe,Czech Republic,developed
+Europe,Denmark,developed
+Europe,Estonia,developed
+Europe,Finland,developed
+Europe,France,developed
+Europe,Georgia,developing
+Europe,Germany,developed
+Europe,Greece,developed
+Europe,Hungary,developed
+Europe,Iceland,developed
+Europe,Ireland,developed
+Europe,Italy,developed
+Europe,Kosovo,developing
+Europe,Latvia,developed
+Europe,Liechtenstein,developed
+Europe,Lithuania,developed
+Europe,Luxembourg,developed
+Europe,Malta,developed
+Europe,Moldova,developing
+Europe,Monaco,developed
+Europe,Montenegro,developing
+Europe,Netherlands,developed
+Europe,North Macedonia,developing
+Europe,Norway,developed
+Europe,Poland,developed
+Europe,Portugal,developed
+Europe,Romania,developed
+Europe,San Marino,developed
+Europe,Serbia,developing
+Europe,Slovakia,developed
+Europe,Slovenia,developed
+Europe,Spain,developed
+Europe,Sweden,developed
+Europe,Switzerland,developed
+Europe,Ukraine,developing
+Europe,United Kingdom,developed
+Oceania,Australia,developed
+Oceania,Fiji,developing
+Oceania,Kiribati,developing
+Oceania,Marshall Islands,developing
+Oceania,Micronesia,developing
+Oceania,Nauru,developing
+Oceania,New Zealand,developed
+Oceania,Palau,developing
+Oceania,Papua New Guinea,developing
+Oceania,Samoa,developing
+Oceania,Solomon Islands,developing
+Oceania,Tonga,developing
+Oceania,Tuvalu,developing
+Oceania,Vanuatu,developing
